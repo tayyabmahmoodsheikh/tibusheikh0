@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tibusheikh0
+- 👋 Hi, I’m @tayyabmahmoodsheikh
 - 👀 I’m interested in Computer Programming, Social Media Content Creating &Business Administration
 - 🌱 I’m currently learning Java,HTML etc
 - 💞️ I’m looking to collaborate on Html
